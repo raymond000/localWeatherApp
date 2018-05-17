@@ -1,0 +1,35 @@
+body{
+  background: #f4fbf2;
+  margin: 0;
+  font-family: 'Kaushan Script';
+  color: white;
+}
+h1{
+  font-size: 4em;
+  margin: 0;
+  background: #d1dcf2;
+  text-align: center;
+}
+#container{
+  background: 	#d1dcf2;
+  overflow:hidden;
+  width: 300px;
+  margin: 50px auto;
+  border: 2px solid white;
+  border-radius: 8px;
+}
+h2, h3{
+ 
+  text-align: center;
+  margin: 10px;
+}
+img{
+  display: inline-block;
+  margin: 0 0 0 125px;
+  padding: 0;
+}
+
+#unit {
+  color: 	white;
+  font-size: 1em;
+}
